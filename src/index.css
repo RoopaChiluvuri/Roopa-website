@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 font-sans antialiased;
+}
+
+::selection {
+  @apply bg-emerald-400/40 text-slate-900;
+}
