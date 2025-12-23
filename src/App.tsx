@@ -201,32 +201,32 @@ function App() {
             <p>
               📧 Email:{" "}
               <a
-                href="mailto:your-email@example.com"
+                href="mailto:roopasree2509@gmail.com"
                 className="text-emerald-400 hover:underline"
               >
-                your-email@example.com
+                roopasree2509@gmail.com
               </a>
             </p>
             <p>
               💼 LinkedIn:{" "}
               <a
-                href="https://www.linkedin.com/in/your-profile"
+                href="https://www.linkedin.com/in/roopachiluvuri/"
                 target="_blank"
                 rel="noreferrer"
                 className="text-emerald-400 hover:underline"
               >
-                linkedin.com/in/your-profile
+                linkedin.com/in/roopachiluvuri/
               </a>
             </p>
             <p>
               🧑‍💻 GitHub:{" "}
               <a
-                href="https://github.com/your-github"
+                href="https://github.com/RoopaChiluvuri"
                 target="_blank"
                 rel="noreferrer"
                 className="text-emerald-400 hover:underline"
               >
-                github.com/your-github
+                https://github.com/RoopaChiluvuri
               </a>
             </p>
           </div>
@@ -235,8 +235,7 @@ function App() {
 
       {/* Footer */}
       <footer className="border-t border-slate-800 py-4 text-center text-xs text-slate-500">
-        © {new Date().getFullYear()} Roopa Chiluvuri · Built with React &
-        Tailwind
+        © {new Date().getFullYear()} Roopa Chiluvuri. All rights reserved.
       </footer>
     </div>
   );
